@@ -1,5 +1,7 @@
 # Decky Loader for Windows
 
+# This fork is maintained for fun to patch Japanese language not working on it, as I am a newcomer in this area, there will be little to no contribution on it, sorry in advance !
+
 A Work-in-progress installer for Decky Loader on Windows. This tool automates the process of downloading and configuring Decky Loader - bringing the Steam Deck's popular plugin system to Windows.
 
 ## ⚠️ Disclaimer
